@@ -3,7 +3,9 @@
 import React from "react";
 
 const TestPage2 = () => {
-  return <div>TestPage2</div>;
+  return (
+    <div className="flex items-center justify-center h-screen">TestPage2</div>
+  );
 };
 
 export default TestPage2;
