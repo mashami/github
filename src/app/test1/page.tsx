@@ -3,7 +3,7 @@
 import React from "react";
 
 const Test1Page = () => {
-  return <div>Test1Page</div>;
+  return <div className="h-screen grid place-content-center">Test1Page</div>;
 };
 
 export default Test1Page;
